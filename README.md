@@ -45,9 +45,9 @@ npm install
 
 Create a `.env` file in the `/Backend` root:
 ```env
-DATABASE_URL="mongodb+srv://<user>:<password>@cluster.mongodb.net/task-manager?retryWrites=true&w=majority"
-JWT_SECRET="your_secure_jwt_secret"
-JWT_REFRESH_SECRET="your_refresh_secret"
+DATABASE_URL="mongodb+srv://jhonwatson172_db_user:CYGL22slcKAhcGME@cluster0.zhfwbcc.mongodb.net/task_management?appName=Cluster0"
+JWT_SECRET="supers3cr3tkey123!@#"
+JWT_REFRESH_SECRET="sup3rlongr3fr3shk3y456!@#"
 PORT=3000
 ```
 
